@@ -1,6 +1,3 @@
-# Picxcellence
-My first repository
-
 <!DOCTYPE html>
 <html lang="en">
 
